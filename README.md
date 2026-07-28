@@ -268,7 +268,7 @@ class SajnaA:
 
 <div align="center">
 
-### Thanks for visiting! Drop a star if you like my work!
+### Thanks for visiting! 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:FF3366,100:00FFC8&height=120&section=footer" width="100%"/>
 
