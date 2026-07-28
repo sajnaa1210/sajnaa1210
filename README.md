@@ -34,7 +34,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WpM5Cn1BDUfFC6yFUC/giphy.gif" width="30"> About Me
+## About Me
 
 ```python
 class SajnaA:
@@ -69,7 +69,7 @@ class SajnaA:
 
 ---
 
-## <img src="https://media.giphy.com/media/QSSatgbE0fSrfMFA8r/giphy.gif" width="35"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -148,28 +148,28 @@ class SajnaA:
 
 ---
 
-## <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="35"> Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/sajnaa1210/Espy-Prototype">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sajnaa1210&repo=Espy-Prototype&theme=radical&bg_color=0A0A0F&title_color=FF3366&icon_color=00FFC8&text_color=A0A0B0&border_color=FF3366" />
+  <img src="https://img.shields.io/badge/Espy-AI_Powered_Shopping-FF3366?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <a href="https://github.com/sajnaa1210/prototype-prepbuddy">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sajnaa1210&repo=prototype-prepbuddy&theme=radical&bg_color=0A0A0F&title_color=FF3366&icon_color=00FFC8&text_color=A0A0B0&border_color=00FFC8" />
+  <img src="https://img.shields.io/badge/PrepBuddy_AI-Interview_Platform-00FFC8?style=for-the-badge&logo=python&logoColor=black" />
 </a>
 <a href="https://github.com/sajnaa1210/ai-code-review-assistant">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sajnaa1210&repo=ai-code-review-assistant&theme=radical&bg_color=0A0A0F&title_color=FF3366&icon_color=9D4EDD&text_color=A0A0B0&border_color=9D4EDD" />
+  <img src="https://img.shields.io/badge/AI_Code_Review-Smart_Analysis-9D4EDD?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <a href="https://github.com/sajnaa1210/portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sajnaa1210&repo=portfolio&theme=radical&bg_color=0A0A0F&title_color=FF3366&icon_color=FFD93D&text_color=A0A0B0&border_color=FFD93D" />
+  <img src="https://img.shields.io/badge/Portfolio-Personal_Website-FFD93D?style=for-the-badge&logo=html5&logoColor=black" />
 </a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="35"> Project Highlights
+## Project Highlights
 
 <table>
   <tr>
@@ -221,7 +221,7 @@ class SajnaA:
 
 ---
 
-## <img src="https://media.giphy.com/media/l4pTdcifPZLpDjL2M/giphy.gif" width="35"> Certifications
+## Certifications
 
 <div align="center">
 
@@ -245,7 +245,7 @@ class SajnaA:
 
 ---
 
-## <img src="https://media.giphy.com/media/19JQcQ6YbP1r2CjJ6X/giphy.gif" width="35"> GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -262,7 +262,7 @@ class SajnaA:
 
 ---
 
-## <img src="https://media.giphy.com/media/jVWqstshJFx7i/giphy.gif" width="35"> Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -285,7 +285,7 @@ class SajnaA:
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WRQ2JTFQVqFuP4vLJt/giphy.gif" width="25"> Thanks for visiting! Drop a ⭐ if you like my work!
+### Thanks for visiting! Drop a star if you like my work!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:FF3366,100:00FFC8&height=120&section=footer" width="100%"/>
 
