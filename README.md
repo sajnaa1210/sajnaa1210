@@ -245,23 +245,6 @@ class SajnaA:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sajnaa1210&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=FF3366&text_color=A0A0B0&icon_color=00FFC8&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajnaa1210&theme=radical&hide_border=true&background=0A0A0F&stroke=FF3366&ring=00FFC8&fire=FF3366&currStreakLabel=00FFC8&sideLabels=A0A0B0" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajnaa1210&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=FF3366&text_color=A0A0B0&langs_count=8" width="40%"/>
-
-</div>
-
----
-
 ## Let's Connect!
 
 <div align="center">
