@@ -262,26 +262,6 @@ class SajnaA:
 
 ---
 
-## <img src="https://media.giphy.com/media/LqDxuchuVRhVzwImAR/giphy.gif" width="35"> Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sajnaa1210&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WRQ2JTFQVqFuP4vLJt/giphy.gif" width="35"> Activity Graph
-
-<div align="center">
-
-[![Sajna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajnaa1210&bg_color=0A0A0F&color=FF3366&line=00FFC8&point=FFFFFF&area=true&area_color=9D4EDD&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/jVWqstshJFx7i/giphy.gif" width="35"> Let's Connect!
 
 <div align="center">
